@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @victordaniel
 - 👀 I’m interested in Anoaly detection in social networks, Graphs neural networks
 - 🌱 
-- 💞️ I’m looking to collaborate on  data pipie line creation fro twitter anomaly detection
+- 💞️ I’m looking to collaborate on  data pipe line creation for twitter anomaly detection
 - 📫 How to reach me victor.nitk@gmail.com
 
 <!---
