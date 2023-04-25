@@ -1,8 +1,7 @@
 - 👋 Hi, This is @VictorDaniel
 - 👀 I’m working on Anomaly detection in social networks 
 - 🌱 I would like to propose novel architectures for graph neural networks and aim to solve problems using GNNs
-- 💞️ I am also interested in creating data pipelines
-- My area of research include Machine learning,Deep leanirng with special focus on GNNs,Bigdata technologies
+- 💞️ I would like to collaborate on creating data pipelines
 - 📫 How to reach me victor.nitk@gmail.com
 
 <!---
